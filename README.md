@@ -8,7 +8,7 @@ After a career in public health research, I've decided to switch gears and delve
 Python, JavaScript, HTML, CSS, Django, Flask
 
 ## Course Work
-CS50X:  Introduction to Computer Science\
+CS50X:  Introduction to Computer Science([repo](https://github.com/kvnduff/CS50X), [website](https://cs50.harvard.edu/x/2022/)\
 CS50P:  Introduction to Programming with Python\
 CS50W:  Computer Science for Web Programming\
 CS50AI: Computer Science for Artificial Intelligence

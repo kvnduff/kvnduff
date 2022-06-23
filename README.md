@@ -7,6 +7,12 @@ After a career in public health research, I've decided to switch gears and delve
 ## Skills
 Python, JavaScript, HTML, CSS, Django, Flask
 
+## Course Work
+CS50X:  Introduction to Computer Science\
+CS50P:  Introduction to Programming with Python\
+CS50W:  Computer Science for Web Programming\
+CS50AI: Computer Science for Artificial Intelligence
+
 ## Project Videos
 <div>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=M8JmcAFzFuo" target="_blank"><img src="http://img.youtube.com/vi/M8JmcAFzFuo/0.jpg" 

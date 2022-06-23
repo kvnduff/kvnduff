@@ -8,14 +8,14 @@ After a career in public health research, I've decided to switch gears and delve
 Python, JavaScript, HTML, CSS, Django, Flask, Linux, Bash
 
 ## Course Work
-CS50X: Introduction to Computer Science (<a href="https://github.com/kvnduff/CS50X/" target="_blank">repo</a>,
-                                         <a href="https://cs50.harvard.edu/x/2022/" target="_blank">website</a>)<br>
-CS50P: Introduction to Programming with Python (<a href="https://github.com/kvnduff/CS50P/" target="_blank">repo</a>,
-                                                <a href="https://cs50.harvard.edu/python/2022//" target="_blank">website</a>)<br>
-CS50W: Web Programming with Python and JavaScript (<a href="https://github.com/kvnduff/CS50W/" target="_blank">repo</a>,
-                                                   <a href="https://cs50.harvard.edu/web/2020/" target="_blank">website</a>)<br>
-CS50AI: Introduction to Artificial Intelligence with Python (<a href="https://github.com/kvnduff/CS50AI/" target="_blank">repo</a>,
-                                                             <a href="https://cs50.harvard.edu/ai/2020/" target="_blank">website</a>)
+CS50X: Introduction to Computer Science (<a href="https://cs50.harvard.edu/x/2022/" target="_blank">website</a>,
+                                         <a href="https://github.com/kvnduff/CS50X/" target="_blank">repo</a>)<br>
+CS50P: Introduction to Programming with Python (<a href="https://cs50.harvard.edu/python/2022//" target="_blank">website</a>,
+                                                repo)<br>
+CS50W: Web Programming with Python and JavaScript (<a href="https://cs50.harvard.edu/web/2020/" target="_blank">website</a>,
+                                                   repo)<br>
+CS50AI: Introduction to Artificial Intelligence with Python (<a href="https://cs50.harvard.edu/ai/2020/" target="_blank">website</a>,
+                                                             repo)<br>
 
 ## Project Videos
 <div>

@@ -7,7 +7,7 @@ After a career in public health research, I've decided to switch gears and delve
 ## Skills
 Python, JavaScript, HTML, CSS, Django, Flask
 
-## Projects
+## Project Videos
 <div>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=M8JmcAFzFuo" target="_blank"><img src="http://img.youtube.com/vi/M8JmcAFzFuo/0.jpg" 
   alt="Recryptex" width="240" height="180" target="_blank"/></a>

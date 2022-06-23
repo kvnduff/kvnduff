@@ -9,10 +9,8 @@ Python, JavaScript, HTML, CSS, Django, Flask
 
 ## Projects
 <div>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=M8JmcAFzFuo
-  " target="_blank"><img src="http://img.youtube.com/vi/M8JmcAFzFuo/0.jpg" 
-  alt="Recryptex" width="240" height="180" border="10" /></a>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=WHggJosI90s
-  " target="_blank"><img src="http://img.youtube.com/vi/WHggJosI90s/0.jpg" 
-  alt="Pickleball Tournament Calculator" width="240" height="180" border="10" /></a>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=M8JmcAFzFuo" target="_blank"><img src="http://img.youtube.com/vi/M8JmcAFzFuo/0.jpg" 
+  alt="Recryptex" width="240" height="180" border="10" target="_blank"/></a>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=WHggJosI90s" target="_blank"><img src="http://img.youtube.com/vi/WHggJosI90s/0.jpg" 
+  alt="Pickleball Tournament Calculator" width="240" height="180" border="10" target="_blank"/></a>
 </div>

@@ -14,8 +14,8 @@ CS50P: Introduction to Programming with Python (<a href="https://github.com/kvnd
                                                 <a href="https://cs50.harvard.edu/python/2022//" target="_blank">website</a>)<br>
 CS50W: Web Programming with Python and JavaScript (<a href="https://github.com/kvnduff/CS50W/" target="_blank">repo</a>,
                                                    <a href="https://cs50.harvard.edu/web/2020/" target="_blank">website</a>)<br>
-CS50AI: Computer Science for Artificial Intelligence (<a href="https://github.com/kvnduff/CS50AI/" target="_blank">repo</a>,
-                                                      <a href="https://cs50.harvard.edu/ai/2020/" target="_blank">website</a>)
+CS50AI: Introduction to Artificial Intelligence with Python (<a href="https://github.com/kvnduff/CS50AI/" target="_blank">repo</a>,
+                                                             <a href="https://cs50.harvard.edu/ai/2020/" target="_blank">website</a>)
 
 ## Project Videos
 <div>

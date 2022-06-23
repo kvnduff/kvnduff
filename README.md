@@ -8,9 +8,9 @@ After a career in public health research, I've decided to switch gears and delve
 Python, HTML, CSS, JavaScript, Django, Flask, SQL, Linux, Bash
 
 ## Course Work
-- CS50X: Introduction to Computer Science ([website](https://cs50.harvard.edu/x/2022/), [repo](https://github.com/kvnduff/CS50X/))\
-- CS50P: Introduction to Programming with Python ([website](https://cs50.harvard.edu/python/2022/), repo)\
-- CS50W: Web Programming with Python and JavaScript ([webstite](https://cs50.harvard.edu/web/2020/), repo)\
+- CS50X: Introduction to Computer Science ([website](https://cs50.harvard.edu/x/2022/), [repo](https://github.com/kvnduff/CS50X/))
+- CS50P: Introduction to Programming with Python ([website](https://cs50.harvard.edu/python/2022/), repo)
+- CS50W: Web Programming with Python and JavaScript ([webstite](https://cs50.harvard.edu/web/2020/), repo)
 - CS50AI: Introduction to Artificial Intelligence with Python ([website](https://cs50.harvard.edu/ai/2020/), repo)
 
 ## Project Videos

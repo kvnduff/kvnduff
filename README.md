@@ -5,17 +5,13 @@
 After a career in public health research, I've decided to switch gears and delve into the world of computer science. This change is largely driven by my fascination with new tech developments, in particular, recent advances in machine learning and artificial intelligence. I'm currently taking online courses and working on some personal projects and will soon be seeking internship and employment opportunities.
 
 ## Skills
-Python, JavaScript, HTML, CSS, Django, Flask, Linux, Bash
+Python, JavaScript, HTML, CSS, Django, Flask, SQL, Linux, Bash
 
 ## Course Work
-CS50X: Introduction to Computer Science (<a href="https://cs50.harvard.edu/x/2022/" target="_blank">website</a>,
-                                         <a href="https://github.com/kvnduff/CS50X/" target="_blank">repo</a>)<br>
-CS50P: Introduction to Programming with Python (<a href="https://cs50.harvard.edu/python/2022//" target="_blank">website</a>,
-                                                repo)<br>
-CS50W: Web Programming with Python and JavaScript (<a href="https://cs50.harvard.edu/web/2020/" target="_blank">website</a>,
-                                                   repo)<br>
-CS50AI: Introduction to Artificial Intelligence with Python (<a href="https://cs50.harvard.edu/ai/2020/" target="_blank">website</a>,
-                                                             repo)<br>
+CS50X: Introduction to Computer Science ([website](https://cs50.harvard.edu/x/2022/), [repo](https://github.com/kvnduff/CS50X/))\
+CS50P: Introduction to Programming with Python ([website](https://cs50.harvard.edu/python/2022/), repo)\
+CS50W: Web Programming with Python and JavaScript ([webstite](https://cs50.harvard.edu/web/2020/), repo)\
+CS50AI: Introduction to Artificial Intelligence with Python ([website](https://cs50.harvard.edu/ai/2020/), repo)
 
 ## Project Videos
 <div>

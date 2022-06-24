@@ -1,4 +1,5 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=KevinDuff_💻&width=900&height=150)](https://github.com/Akshay090/svg-banners)
+![](banner.png)
+
 # Kevin Duff
 ## Developer in Training
 

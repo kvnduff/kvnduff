@@ -1,6 +1,5 @@
 ![](banner.png)
 
-# Kevin Duff
 ## Developer in Training
 
 After a career in public health research, I've decided to switch gears and delve into the world of computer science. This change is largely driven by my fascination with new tech developments, in particular, recent advances in machine learning and artificial intelligence. I'm currently taking online courses and working on some personal projects and will soon be seeking internship and employment opportunities.
